@@ -1,3 +1,5 @@
 # Slope-Stability
+
 First Git Repository
-Author - Kavya
+<br>
+Author - Kavya Erravatti
